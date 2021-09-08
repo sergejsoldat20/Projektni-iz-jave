@@ -1,0 +1,11 @@
+PUT1#350#25
+PUT2#400#60
+PUT3#400#35
+MAPA_PATH#src/Config/MapaConfig/MatricaMape.txt
+POCETNE_POZICIJE_PATH#src/Config/MapaConfig/pocetne pozicije.txt
+PUTANJE_VOZOVA_PATH#src/Config/MapaConfig/putanje vozova.txt
+PRUZNI_PRELAZI_PATH#src/Config/MapaConfig/pruzni prelazi.txt
+KRETANJE_PATH#src/Kretanje/
+KOMPOZICIJE_PATH#src/Kompozicije
+PUT_PATH#src/Config/MapaConfig/put.txt
+CONFIG_PATH#src/Config/

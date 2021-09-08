@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane fx:id="anchorPane" prefHeight="500.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.IstorijaKretanjaController">
+   <children>
+      <TableView fx:id="tableView" layoutY="1.0" prefHeight="500.0" prefWidth="600.0">
+        <columns>
+          <TableColumn fx:id="kompozicije" prefWidth="110.0" text="Kompozicija" />
+          <TableColumn fx:id="vrijeme" prefWidth="88.0" text="Vrijeme" />
+            <TableColumn fx:id="stanice" prefWidth="119.0" text="Stanice" />
+            <TableColumn fx:id="koordinate" prefWidth="282.0" text="Koordinate" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>
